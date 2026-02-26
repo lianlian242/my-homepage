@@ -46,11 +46,14 @@ function App() {
         <h2>Contact</h2>
         <p>Email: lianl@wustl.edu</p>
         <p>
-          GitHub: <a href="https://github.com/lianlian242">yourusername</a>
+           GitHub:{" "}
+           <a href="https://github.com/lianlian242" target="_blank">
+             github.com/lianlian242
+           </a>
         </p>
       </section>
 
-      <footer>
+      <footer>  
         <p>© 2026 Lian Lian</p>
       </footer>
     </div>
